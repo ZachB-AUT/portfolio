@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on Zach Barrett Portfolio</title>
+    <title>Home on </title>
     <link>http://localhost:1313/</link>
-    <description>Recent content in Home on Zach Barrett Portfolio</description>
+    <description>Recent content in Home on </description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 22 Jul 2025 00:00:00 +0000</lastBuildDate>
@@ -13,7 +13,14 @@
       <link>http://localhost:1313/posts/aboutme/</link>
       <pubDate>Tue, 22 Jul 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/aboutme/</guid>
-      <description>&lt;p&gt;= About Me&lt;/p&gt;&#xA;&lt;p&gt;I am a third year student at AUT, studying mechatronics engineering and computer science.&lt;/p&gt;</description>
+      <description>&lt;hr&gt;&#xA;&lt;h1 id=&#34;education&#34;&gt;Education&lt;/h1&gt;&#xA;&lt;p&gt;I am a third year student at AUT, studying mechatronics engineering and computer science.&lt;/p&gt;&#xA;&lt;h1 id=&#34;skills&#34;&gt;Skills&lt;/h1&gt;&#xA;&lt;h1&gt;&lt;/h1&gt;</description>
+    </item>
+    <item>
+      <title>An example project</title>
+      <link>http://localhost:1313/projects/thesuit/</link>
+      <pubDate>Tue, 22 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/thesuit/</guid>
+      <description>&lt;h1 id=&#34;hello&#34;&gt;Hello&lt;/h1&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-py&#34; data-lang=&#34;py&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;def&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;main&lt;/span&gt;():&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    print(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Here is some code&amp;#34;&lt;/span&gt;)&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;blockquote&gt;&#xA;&lt;p&gt;Hello from a block quote&lt;/p&gt;&lt;/blockquote&gt;</description>
     </item>
   </channel>
 </rss>
