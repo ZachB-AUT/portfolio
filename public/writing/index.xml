@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Writings on </title>
+    <link>portfolio/writing/</link>
+    <description>Recent content in Writings on </description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="portfolio/writing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Thoughts on AI</title>
+      <link>portfolio/writing/thoughtsonai/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>portfolio/writing/thoughtsonai/</guid>
+      <description>&lt;h1 id=&#34;tldr&#34;&gt;tldr&lt;/h1&gt;&#xA;&lt;p&gt;I think that while AI is absolutelyt a useful tool for some people, the incentives created by AI mean that most people using it simply use it to avoid effort, and in doing so are making themselves lazy and stupid.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

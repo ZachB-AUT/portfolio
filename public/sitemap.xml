@@ -2,23 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/aboutme/</loc>
+    <loc>portfolio/</loc>
+    <lastmod>2025-08-22T15:27:17+12:00</lastmod>
+  </url><url>
+    <loc>portfolio/posts/</loc>
+    <lastmod>2025-08-22T15:27:17+12:00</lastmod>
+  </url><url>
+    <loc>portfolio/posts/aboutme/</loc>
     <lastmod>2025-07-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/thesuit/</loc>
+    <loc>portfolio/projects/thesuit/</loc>
     <lastmod>2025-07-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>portfolio/projects/</loc>
     <lastmod>2025-07-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-07-22T00:00:00+00:00</lastmod>
+    <loc>portfolio/writing/thoughtsonai/</loc>
+    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/</loc>
-    <lastmod>2025-07-22T00:00:00+00:00</lastmod>
+    <loc>portfolio/writing/</loc>
+    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>portfolio/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>portfolio/tags/</loc>
   </url>
 </urlset>
