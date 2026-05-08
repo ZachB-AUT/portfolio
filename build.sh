@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-
+#
 #------------------------------------------------------------------------------
 # @file
 # Builds a Hugo site hosted on a Cloudflare Worker.
