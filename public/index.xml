@@ -1,33 +1,8 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Home on </title>
-    <link>//localhost:1313/</link>
-    <description>Recent content in Home on </description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 22 Jul 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>About Me</title>
-      <link>//localhost:1313/posts/aboutme/</link>
-      <pubDate>Tue, 22 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/aboutme/</guid>
-      <description>&lt;hr&gt;&#xA;&lt;h1 id=&#34;education&#34;&gt;Education&lt;/h1&gt;&#xA;&lt;p&gt;I am a third year student at AUT, studying mechatronics engineering and computer science.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>An example project</title>
-      <link>//localhost:1313/projects/thesuit/</link>
-      <pubDate>Tue, 22 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/projects/thesuit/</guid>
-      <description>&lt;h1 id=&#34;hello&#34;&gt;Hello&lt;/h1&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Hello from a block quote&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-py&#34; data-lang=&#34;py&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;def&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;main&lt;/span&gt;():&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    print(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Hello world!&amp;#34;&lt;/span&gt;)&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Test Markdown</title>
-      <link>//localhost:1313/posts/test-markdown/</link>
-      <pubDate>Sun, 01 Jan 2023 10:28:10 +0800</pubDate>
-      <guid>//localhost:1313/posts/test-markdown/</guid>
-      <description>&lt;h1 id=&#34;markdown-test-page&#34;&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;Markdown Test Page&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#Headings&#34;&gt;Headings&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#Paragraphs&#34;&gt;Paragraphs&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#Blockquotes&#34;&gt;Blockquotes&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#Lists&#34;&gt;Lists&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#Horizontal&#34;&gt;Horizontal rule&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#Table&#34;&gt;Table&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#Code&#34;&gt;Code&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#Inline&#34;&gt;Inline elements&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h1 id=&#34;headings&#34;&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;Headings&lt;/h1&gt;&#xA;&lt;h1 id=&#34;heading-one&#34;&gt;Heading one&lt;/h1&gt;&#xA;&lt;p&gt;Sint sit cillum pariatur eiusmod nulla pariatur ipsum. Sit laborum anim qui mollit tempor pariatur nisi minim dolor. Aliquip et adipisicing sit sit fugiat commodo id sunt.&lt;/p&gt;&#xA;&lt;h2 id=&#34;heading-two&#34;&gt;Heading two&lt;/h2&gt;&#xA;&lt;p&gt;Aute officia nulla deserunt do deserunt cillum velit magna. Officia veniam culpa anim minim dolore labore pariatur voluptate id ad est duis quis velit dolor pariatur enim.&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Home on</title><link>/</link><description>Recent content in Home on</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Tue, 22 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>About Me</title><link>/posts/aboutme/</link><pubDate>Tue, 22 Jul 2025 00:00:00 +0000</pubDate><guid>/posts/aboutme/</guid><description>&lt;hr>
+&lt;h1 id="education">Education&lt;/h1>
+&lt;p>I am a third year student at AUT, studying mechatronics engineering and computer science.&lt;/p></description></item><item><title>An example project</title><link>/projects/thesuit/</link><pubDate>Tue, 22 Jul 2025 00:00:00 +0000</pubDate><guid>/projects/thesuit/</guid><description>&lt;h1 id="hello">Hello&lt;/h1>
+&lt;blockquote>
+&lt;p>Hello from a block quote&lt;/p>&lt;/blockquote>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-py" data-lang="py">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f00">def&lt;/span> &lt;span style="color:#ff0">main&lt;/span>():
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> print(&lt;span style="color:#87ceeb">&amp;#34;Hello world!&amp;#34;&lt;/span>)
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div></description></item></channel></rss>

@@ -1,0 +1,68 @@
+[[entries]]
+title = "About me:"
+[[entries.entries]]
+title = "I am currently working on a Bachelors of Engineering Honours in mechatronics engineering with a minor in computer science at Auckland University of Technology."
+[[entries.entries]]
+title = "I currently work as an undergraduate teaching assistant for AUT."
+[[entries.entries]]
+title = "I really like circuit design and embedded programming."
+
+[[entries]]
+title = "Look at my projects!"
+
+[entries.post_list]
+section = "projects"
+limit = 5
+show_more = true
+show_more_text = "See archive..."
+show_more_url = "projects"
+
+# [[entries]]
+# title = "Download my CV"
+# [[entries.entries]]
+# title="Here"
+# url = "ZachBarrett-CV.pdf"
+
+# [[entries]]
+# title = "other posts"
+
+# [[entries.entries]]
+# section = "posts"
+
+# [[entries]]
+# title = "What I think about things"
+
+# [[entries.entries]]
+# section = "writing"
+# limit = 5
+# show_more = true
+# show_more_text = "See archive..."
+# show_more_url = "writing"
+
+# [[entries]]
+# title = "posts by category"
+
+# [entries.post_list]
+# section = "posts"
+# show_more = true
+# show_more_text = "See more posts..."
+# show_more_url = "posts"
+
+[[entries]]
+title = "Contact me!"
+
+[[entries.entries]]
+title = "Github"
+url = "https://github.com/ZachB-AUT"
+
+[[entries.entries]]
+title = "LinkedIn"
+url = "https://www.linkedin.com/in/zach-barrett-7aaaa3334/"
+
+[[entries.entries]]
+title = "Email"
+url = "mailto://zachlb.03@gmail.com"
+
+# [[entries]]
+# title = "Subscribe to the RSS feed here."
+# url = "index.xml"

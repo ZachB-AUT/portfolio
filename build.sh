@@ -83,7 +83,8 @@ main() {
 
   # Build the site
   echo "Building the site..."
-  hugo build --gc --minify
+  rm -rf public
+  hugo build --gc --minify --cleanDestinationDir
 }
 
 main "$@"
