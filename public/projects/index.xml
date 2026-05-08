@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on </title>
-    <link>portfolio/projects/</link>
+    <link>//localhost:1313/projects/</link>
     <description>Recent content in Projects on </description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 22 Jul 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="portfolio/projects/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>An example project</title>
-      <link>portfolio/projects/thesuit/</link>
+      <link>//localhost:1313/projects/thesuit/</link>
       <pubDate>Tue, 22 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>portfolio/projects/thesuit/</guid>
+      <guid>//localhost:1313/projects/thesuit/</guid>
       <description>&lt;h1 id=&#34;hello&#34;&gt;Hello&lt;/h1&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Hello from a block quote&lt;/p&gt;&lt;/blockquote&gt;</description>
     </item>
   </channel>
