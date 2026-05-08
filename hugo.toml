@@ -8,7 +8,7 @@ extended = true
 min = '0.41.0'
 
 [[module.imports]]
-path = 'nostyleplease'
+path = 'github.com/hanwenguo/hugo-theme-nostyleplease'
 
 [[module.imports.mounts]]
 source = 'archetypes'
