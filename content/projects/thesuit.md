@@ -1,7 +1,7 @@
 ---
 title:  "An example project"
 date: "2025-07-22"
-draft: false
+draft: true
 mathjax: true
 # category: projects
 ---
