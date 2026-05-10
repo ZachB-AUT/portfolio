@@ -1,6 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Projects on</title><link>/projects/</link><description>Recent content in Projects on</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Tue, 22 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="/projects/index.xml" rel="self" type="application/rss+xml"/><item><title>An example project</title><link>/projects/thesuit/</link><pubDate>Tue, 22 Jul 2025 00:00:00 +0000</pubDate><guid>/projects/thesuit/</guid><description>&lt;h1 id="hello">Hello&lt;/h1>
-&lt;blockquote>
-&lt;p>Hello from a block quote&lt;/p>&lt;/blockquote>
-&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-py" data-lang="py">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f00">def&lt;/span> &lt;span style="color:#ff0">main&lt;/span>():
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> print(&lt;span style="color:#87ceeb">&amp;#34;Hello world!&amp;#34;&lt;/span>)
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on </title>
+    <link>/projects/</link>
+    <description>Recent content in Projects on </description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 08 May 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ENEL602 Test Device</title>
+      <link>/projects/programmer/</link>
+      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
+      <guid>/projects/programmer/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;I am a teaching assistant at AUT for a second / third year paper called ENEL602&#xA;(Electronics Project.) As part of that course, students design and build a small&#xA;line-following robot.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Insert image of robot here.&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;One problem I noticed when I was taking the course myself was that after the&#xA;robot was complete, students were expected to test it by writing code for the&#xA;onboard microcontroller. However, if (or inevitably &lt;em&gt;when&lt;/em&gt;) they encountered&#xA;some technical issue, how were they supposed to know if the problem is with&#xA;their physical assembly, or with their code?&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

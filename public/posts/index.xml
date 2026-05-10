@@ -1,3 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on</title><link>/posts/</link><description>Recent content in Posts on</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Tue, 22 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>About Me</title><link>/posts/aboutme/</link><pubDate>Tue, 22 Jul 2025 00:00:00 +0000</pubDate><guid>/posts/aboutme/</guid><description>&lt;hr>
-&lt;h1 id="education">Education&lt;/h1>
-&lt;p>I am a third year student at AUT, studying mechatronics engineering and computer science.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on </title>
+    <link>/posts/</link>
+    <description>Recent content in Posts on </description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 22 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>/posts/aboutme/</link>
+      <pubDate>Tue, 22 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>/posts/aboutme/</guid>
+      <description>&lt;hr&gt;&#xA;&lt;h1 id=&#34;education&#34;&gt;Education&lt;/h1&gt;&#xA;&lt;p&gt;I am a third year student at AUT, studying mechatronics engineering and computer science.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
